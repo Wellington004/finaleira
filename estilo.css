@@ -1,0 +1,91 @@
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+  background-color: deepskyblue;
+  margin-top: 150px;
+  border-radius: 50px;
+}
+h2 {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+}
+#capa {
+  text-align: center;
+  height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+  background-image: url( https://img.freepik.com/vetores-gratis/desenho-geometrico-colorido-abstrato_1035-18032.jpg?w=740&t=st=1701015872~exp=1701016472~hmac=3582b3720776c6031657f822405020bb2cff59b544045271cce166e3fa184827);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#video {
+  background-color: deepskyblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+li {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+}
+#Titulo {
+  font-size: 50px;
+}
+#Sub {
+  font-size: 25px;
+}
+
+.bottonn:hover {
+  background-color: transparent;
+  font-size: 30px;
+  border-radius: 50px;
+  color: dodgerblue;
+
+}
+
+button {
+  border-radius: 25px;
+  font-size: 20px;
+  transition: all 0.5s ease-in-out 0s;
+  height: 50px;
+  width: 300px;
+ background-color: white;
+}
+a {
+  color:dodgerblue;
+}
+.diva div {
+  display: flex;
+  margin: 5px;
+  align-items: center;
+  justify-content: center;
+}
+.diva {
+  display: flex;
+}
+#ali {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  
+}
+h3 {
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  background-color: deepskyblue;
+  margin: 0px 400px 0px 400px;
+  border-radius:50px;
+}
+
+
+
